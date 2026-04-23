@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p176854-e1867254.adobeaemcloud.com/bin/franklin.delivery/Sebastian88g/SEBAS_AEM_T/main"
+    url: "https://author-p176854-e1867254.adobeaemcloud.com/bin/franklin.delivery/Sebastian88g/sebas-aem-t/main"
     type: "markup"
     suffix: ".html"
