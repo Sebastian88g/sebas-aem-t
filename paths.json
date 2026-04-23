@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/SEBAS_AEM_T:/",
+    "/content/SEBAS_AEM_T/configuration:/.helix/config.json",
+    "/content/SEBAS_AEM_T/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/SEBAS_AEM_T/"
   ]
 }
